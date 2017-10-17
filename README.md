@@ -1,5 +1,8 @@
 # si_JCC-17-0088
-Sode and Cherry (2017) JCC supporting information
+
+O. Sode and J. N. Cherry 'Development of a Flexible-Monomer Two-Body Carbon
+Dioxide Potential and Its Application to Clusters up to
+(CO2)13' Journal of Computational Chemistry (2017) supporting information
 
 --------------------------------------------------------------------------------
 
